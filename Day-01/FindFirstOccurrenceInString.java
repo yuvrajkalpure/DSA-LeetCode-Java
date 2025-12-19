@@ -1,4 +1,4 @@
-class Solution {
+class FindFirstOccurrenceInString {
    public int strStr(String haystack, String needle) {
         int n=haystack.length();
         int m=needle.length();

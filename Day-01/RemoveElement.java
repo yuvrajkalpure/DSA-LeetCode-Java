@@ -1,4 +1,4 @@
-class Solution {
+class FindFirstOccurrenceInString {
     public int removeElement(int[] nums, int val) {
         int count=0;
         
